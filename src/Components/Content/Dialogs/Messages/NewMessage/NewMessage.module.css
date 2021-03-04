@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+.NewMessage {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.NewMessage__field {
+  border: none;
+  background-color: rgb(157, 221, 221);
+  width: 80%;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  resize: none;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 0 4px;
+  height: 48px;
+  outline: none;
+  overflow-y: overlay;
+}
+
+.NewMessage__send {
+  display: inline-block;
+  border: none;
+  background-color: rgb(84, 206, 255);
+  color: white;
+  height: 48px;
+  vertical-align: top;
+  font-size: 18px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 20%;
+}

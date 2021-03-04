@@ -1,0 +1,6 @@
+.Dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+
+    margin-top: 10px;
+}

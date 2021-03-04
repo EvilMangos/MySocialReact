@@ -1,0 +1,16 @@
+.Dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+
+    margin-top: 10px;
+}
+
+.DialogsList ul {
+    margin: 0px;
+    margin-left: 10px;
+    padding: 0px;
+}
+
+.DialogsList li {
+    list-style-type: none;
+}

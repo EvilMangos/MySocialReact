@@ -1,0 +1,18 @@
+.nav {
+
+}
+
+.nav li {
+    list-style-type: none;
+    line-height: 26px
+}
+
+.nav li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.nav a.active {
+    color: rgb(83, 132, 255);
+}

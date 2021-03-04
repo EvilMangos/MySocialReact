@@ -1,0 +1,12 @@
+.Message {
+  margin-bottom: 10px;
+}
+
+.Message__text {
+  max-width: 40%;
+}
+
+.Message.me {
+  display: flex;
+  justify-content: flex-end;
+}
